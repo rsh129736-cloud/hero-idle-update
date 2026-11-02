@@ -1,0 +1,12 @@
+{
+  "applicationId": "kr.idle.heroexpedition",
+  "version": "9.2",
+  "date": "2026-11-02",
+  "file": "resources.neu",
+  "size": 12586597,
+  "sha256": "1533c38ce646196f90cf5399a0ff758b5c250cc89f0ac1310ea1f993453ca053",
+  "notes": [
+    "데스크톱 자동 업데이트 기능 추가 (사내 공유폴더)",
+    "항상 맨 위 설정 · 창 크기 비율 · 상단 바 자동 숨김 · 메뉴 한눈에 보기 (9.1.3)"
+  ]
+}
