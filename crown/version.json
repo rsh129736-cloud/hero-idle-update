@@ -1,0 +1,9 @@
+{
+  "applicationId": "kr.brokencrown.war",
+  "version": "1.1",
+  "date": "2026-11-05",
+  "file": "resources.neu",
+  "size": 19861642,
+  "sha256": "9484113f2d30a6538cd5b5e8cf8e6080690cc3f61df7d2dfaf5034b1d3dea086",
+  "notes": ["실시간 세력전", "재화 설명 · 동료 고르기 칸 · 스크롤 수정"]
+}
