@@ -1,11 +1,1 @@
-{
-  "applicationId": "kr.weapontower.idle",
-  "version": "3.5",
-  "date": "2026-11-18",
-  "file": "resources.neu",
-  "size": 14058341,
-  "sha256": "9fb4e8103af8b6ab13bc5296618c4784d18bcff53d3efde4f1a14af63dfc533e",
-  "notes": [
-    "주인공 공격 4종(찌르기 35% · 베기 35% · 회전 15% · 점프 15%)을 확률로 번갈아 사용 · 같은 동작 3연속 방지"
-  ]
-}
+{"ver":"4.0","pck":"game.pck","notes":["고도트 엔진으로 전환","무한 라운드 · 10라운드마다 보스","보스 벽 대기가 갈수록 커지는 밸런스"]}
